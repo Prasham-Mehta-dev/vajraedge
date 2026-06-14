@@ -1,0 +1,2 @@
+# vajraedge
+Personal trading journal
